@@ -10,7 +10,6 @@
   * Reddit -> u/PolmaGuionBajo
   * Discord -> polma_
 ### *Feel free if you wanna contact me!*
-
 <!---
 Polmansana/Polmansana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
